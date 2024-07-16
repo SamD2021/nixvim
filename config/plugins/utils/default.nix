@@ -14,5 +14,6 @@
     ./undotree.nix
     ./illuminate.nix
     ./yaml-companion.nix
+    ./netman.nix
   ];
 }
