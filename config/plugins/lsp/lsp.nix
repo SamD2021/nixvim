@@ -6,12 +6,17 @@
       servers = {
         # eslint = {enable = true;};
         # html = {enable = true;};
+        bashls = {enable = true;};
         lua-ls = {enable = true;};
         nil-ls = {enable = true;};
         # marksman = {enable = true;};
         pyright = {enable = true;};
         gopls = {enable = true;};
         # terraformls = {enable = true;};
+        rust-analyzer = {
+          enable = true;
+          installRustc = true;
+        };
         tsserver = {enable = true;};
         clangd = {enable = true;};
         yamlls = {
