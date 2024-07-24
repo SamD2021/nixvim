@@ -8,5 +8,7 @@
     ./nvim-notify.nix
     ./precognition.nix
     ./noice.nix
+    ./neo-tree.nix
+    ./zen.nix
   ];
 }

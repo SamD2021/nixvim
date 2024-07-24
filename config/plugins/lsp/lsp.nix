@@ -6,6 +6,7 @@
       servers = {
         # eslint = {enable = true;};
         # html = {enable = true;};
+        bashls = {enable = true;};
         lua-ls = {enable = true;};
         nil-ls = {enable = true;};
         # marksman = {enable = true;};
