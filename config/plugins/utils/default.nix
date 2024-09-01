@@ -8,7 +8,7 @@
     ./flash.nix
     ./comment.nix
     ./copilot.nix
-    ./grapple.nix
+    # ./grapple.nix
     ./harpoon.nix
     ./hardtime.nix
     ./undotree.nix
